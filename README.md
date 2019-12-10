@@ -12,11 +12,11 @@ The objective of these notebooks is to give aspiring data scientists, who are fa
 ### Motivation
 It is my opinion that ISLR is an excellent introduction to data science, and I have read it many times.  However I have always been frustrated that it was written exclusively using the R language for examples and labs.  In my research for this project I found that R was the predominate language of data science professionals when the book was written in 2013 (see figure 1), however that changed rapidly between 2013 and today (2019) when python is the most prevelant language among data science professionals (see figure 2).  
 
-![image of data science prefs 2013](https://github.com/pmeleney/Data_512_Project/images/prefs_2013.PNG)
+![image of data science prefs 2013](https://github.com/pmeleney/data512_project/images/data_science_prefs_2013.PNG)
 
 In 2013, R was the dominate language among data science professionals.  In this study conducted by KD Nuggets, which asked the question: "What programming/statistices languages you used for an analytics / data mining / data science work in 2013?," among the 713 respondents to that question, over 60% of them used R, and only 38.8% of them used python.  
 
-![image of data science prefs 2018](https://github.com/pmeleney/Data_512_Project/images/prefs_2018.PNG)
+![image of data science prefs 2018](https://github.com/pmeleney/data512_project/images/data_science_prefs_2018.PNG)
 
 However by 2018, a much larger study conducted by Kaggle which asked "What specific programming language do you use most often?" among the 23,859 respondents 54% responded that Python was the language they used most, followed by R at only 13%.  This may explain why the authors originally chose R as the consensus language among data professionals in 2013, but the evolution of the field towards use of python strongly motivates my work in its translation to Python.
 
